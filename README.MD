@@ -5,11 +5,15 @@ Some text here.
 hi again
 
 
-# Mom Function Sample:
+# Mom and Dad Function Samples:
 ```
 var getMom  = function() {
 	return 'Hi Mom';
 };
 
 getMom();
+
+var getDad = function() {
+	return 'hey dad';
+};
 ```
